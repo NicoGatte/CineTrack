@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="primary">#FFE50914</color>
+    <color name="surface_dark">#FF0D0D0D</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">Info</string>
+    <string name="add_to_watchlist">Aggiungi alla Watchlist</string>
+    <string name="all">Tutti</string>
+    <string name="app_name">CineTrack</string>
+    <string name="apply_filters">Applica Filtri</string>
+    <string name="best_rated">Miglior Voto</string>
+    <string name="buy">Acquisto</string>
+    <string name="cast">Cast</string>
+    <string name="clear_cache">Cancella Cache</string>
+    <string name="clear_history">Cancella Cronologia</string>
+    <string name="dark_theme">Tema Scuro</string>
+    <string name="director">Regista</string>
+    <string name="duration">Durata</string>
+    <string name="empty_watchlist">La tua watchlist è vuota</string>
+    <string name="empty_watchlist_desc">Aggiungi film alla tua watchlist per ritrovarli qui</string>
+    <string name="error_network">Errore di connessione. Riprova.</string>
+    <string name="favorites">Preferiti</string>
+    <string name="filters">Filtri</string>
+    <string name="genre">Genere</string>
+    <string name="home">Home</string>
+    <string name="light_theme">Tema Chiaro</string>
+    <string name="mark_as_unwatched">Segna come non visto</string>
+    <string name="mark_as_watched">Segna come visto</string>
+    <string name="min_rating">Rating Minimo</string>
+    <string name="minutes">min</string>
+    <string name="most_popular">Più Popolari</string>
+    <string name="most_recent">Più Recenti</string>
+    <string name="no_results">Nessun risultato trovato</string>
+    <string name="now_playing">In Sala</string>
+    <string name="original_title">Titolo Originale</string>
+    <string name="overview">Trama</string>
+    <string name="popular_movies">Film Popolari</string>
+    <string name="powered_by_justwatch">Dati streaming forniti da JustWatch</string>
+    <string name="recent_searches">Ricerche Recenti</string>
+    <string name="release_date">Data di Uscita</string>
+    <string name="remove_from_watchlist">Rimuovi dalla Watchlist</string>
+    <string name="rent">Noleggio</string>
+    <string name="reset_filters">Reset</string>
+    <string name="retry">Riprova</string>
+    <string name="runtime">Durata</string>
+    <string name="search">Cerca</string>
+    <string name="search_hint">Cerca un film...</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="share_movie">Guarda \"%1$s\" su CineTrack!\n\nhttps://www.themoviedb.org/movie/%2$d</string>
+    <string name="similar_movies">Film Simili</string>
+    <string name="sort_by">Ordina per</string>
+    <string name="streaming">Streaming</string>
+    <string name="title_az">Titolo A-Z</string>
+    <string name="to_watch">Da Vedere</string>
+    <string name="top_rated">I Più Votati</string>
+    <string name="trailer">Trailer</string>
+    <string name="trending_today">Trending Oggi</string>
+    <string name="upcoming">Prossimamente</string>
+    <string name="version">Versione</string>
+    <string name="votes">voti</string>
+    <string name="watch_now">Guarda Ora</string>
+    <string name="watched">Visti</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="where_to_watch">Dove Guardarlo</string>
+    <string name="year">Anno</string>
+    <style name="Theme.CineTrack" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/surface_dark</item>
+        <item name="android:navigationBarColor">@color/surface_dark</item>
+        <item name="android:windowBackground">@color/surface_dark</item>
+    </style>
+    <style name="Theme.CineTrack.Splash" parent="Theme.CineTrack">
+        <item name="android:windowBackground">@color/surface_dark</item>
+    </style>
+</resources>
