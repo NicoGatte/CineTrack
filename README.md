@@ -23,3 +23,5 @@ CineTrack è un'app Android moderna pensata per esplorare il mondo del cinema in
 - Coil
 - Coroutines
 - TMDb API
+
+#app al percorso:app/build/outputs/apk/debug
